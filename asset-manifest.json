@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TelRan-products/static/css/main.91ff70ad.css",
+    "main.js": "/TelRan-products/static/js/main.53ef3922.js",
+    "index.html": "/TelRan-products/index.html",
+    "main.91ff70ad.css.map": "/TelRan-products/static/css/main.91ff70ad.css.map",
+    "main.53ef3922.js.map": "/TelRan-products/static/js/main.53ef3922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ff70ad.css",
+    "static/js/main.53ef3922.js"
+  ]
+}
